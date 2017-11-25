@@ -6,9 +6,9 @@ disqusShortname = "Vincent" # delete this to disable disqus comments
 
 [params]
     author = "Vincent Cheung"
-    description = "Personal blog theme powered by Hugo"
+    description = "vincent.cheung.mcer@gmail.com"
     githubUsername = "vincentcheungm"
-    accent = "red"
+    accent = "purple"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
