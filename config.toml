@@ -1,4 +1,4 @@
-baseURL = "http://vincentcheungm.github.io/"
+baseURL = "http://vincentcheungm.github.io"
 languageCode = "zh-cn"
 title = "Vincent Cheung"
 theme = "minimal"
