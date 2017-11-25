@@ -1,9 +1,8 @@
 baseURL = "http://vincentcheungm.github.io/"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "Vincent Cheung"
 theme = "minimal"
 disqusShortname = "" # delete this to disable disqus comments
-googleAnalytics = ""
 
 [params]
     author = "Calin Tataru"
@@ -12,7 +11,7 @@ googleAnalytics = ""
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Consolas" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "Makefile", "Python","JSON","c++","bash","Shell"]
@@ -46,17 +45,3 @@ googleAnalytics = ""
     name = "github"
     weight = 2
 
-# [[menu.icon]]
-#    url = "https://twitter.com/username/"
-#    name = "twitter"
-#    weight = 3
-
-#[[menu.icon]]
-#    url = "https://www.linkedin.com/in/username/"
-#    name = "linkedin"
-#    weight = 4
-
-#[[menu.icon]]
-#    url = "https://www.stackoverflow.com/username/"
-#    name = "stack-overflow"
-#    weight = 5
