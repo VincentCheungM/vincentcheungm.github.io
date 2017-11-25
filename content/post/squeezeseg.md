@@ -1,7 +1,6 @@
 ---
 title: "Squeeze-Seg LiDAR Point Cloud segmentation"
 date: 2017-11-25
-description: "LiDAR Point Cloud Semantic Segmentation"
 tags: ["tensorflow", "ros", "python"]
 draft: false
 ---
