@@ -2,16 +2,16 @@ baseURL = "http://vincentcheungm.github.io/"
 languageCode = "zh-cn"
 title = "Vincent Cheung"
 theme = "minimal"
-disqusShortname = "" # delete this to disable disqus comments
+disqusShortname = "Vincent" # delete this to disable disqus comments
 
 [params]
-    author = "Calin Tataru"
+    author = "Vincent Cheung"
     description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
+    githubUsername = "vincentcheungm"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Consolas" # should match the name on Google Fonts!
+    font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "Makefile", "Python","JSON","c++","bash","Shell"]
