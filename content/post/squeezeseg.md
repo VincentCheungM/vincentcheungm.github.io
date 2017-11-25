@@ -1,9 +1,10 @@
 ---
 title: "Squeeze-Seg LiDAR Point Cloud segmentation"
 date: 2017-11-25
-tags: [tensorflow, ros, python]
+tags: ["tensorflow", "ros", "python"]
 draft: false
 ---
+
 # Squeeze-Seg
 
 [repo](https://github.com/VincentCheungM/SqueezeSeg_tf)
