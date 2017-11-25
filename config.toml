@@ -2,6 +2,7 @@ baseURL = "https://vincentcheungm.github.io"
 languageCode = "zh-cn"
 title = "Vincent Cheung"
 theme = "minimal"
+disqusShortname = "" # delete this to disable disqus comments
 
 [params]
     author = "Vincent Cheung"
