@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ros on Vincent Cheung</title>
+    <link>https://vincentcheungm.github.io/tags/ros/</link>
+    <description>Recent content in Ros on Vincent Cheung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 25 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vincentcheungm.github.io/tags/ros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ground Plane Fitting</title>
+      <link>https://vincentcheungm.github.io/post/ground_plane_fit/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincentcheungm.github.io/post/ground_plane_fit/</guid>
+      <description>#Ground Plane Fitting
+repo
+@inproceedings{Zermas2017Fast, title={Fast segmentation of 3D point clouds: A paradigm on LiDAR data for autonomous vehicle applications}, author={Zermas, Dimitris and Izzat, Izzat and Papanikolopoulos, Nikolaos}, booktitle={IEEE International Conference on Robotics and Automation}, year={2017}, }  In this paper, Zermas proposed a scan_line_based point cloud segmentation method. The ground plane is removed according to Ground Plan Fitting. Here, the ground plane model as $a*x+b*y+c*z + d = 0$. And the normal of plane is regared as the least primary component of the covariance matrix.</description>
+    </item>
+    
+    <item>
+      <title>Squeeze-Seg LiDAR Point Cloud segmentation</title>
+      <link>https://vincentcheungm.github.io/post/squeezeseg/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincentcheungm.github.io/post/squeezeseg/</guid>
+      <description> Squeeze-Seg repo
+@article{Wu2017SqueezeSeg, title={SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud}, author={Wu, Bichen and Wan, Alvin and Yue, Xiangyu and Keutzer, Kurt}, year={2017}, }  </description>
+    </item>
+    
+  </channel>
+</rss>
